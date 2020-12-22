@@ -1,16 +1,14 @@
-# formsvalidations
+# Forms Firebase 
 
-A new Flutter project.
+Aplicación flutter para realizar un crud con Firebase
 
-## Getting Started
+## Resumen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En esta aplicación se trata:
+- Formularios y validación de los mismos
+- Uso de patrón bloc y provider de inherited widget
+- CRUD con Firebase Realtime Database
+- Login y autenticación con Firebase auth
+- Manejo de token de Firebase en el storage del dispositivo
+- Subida de imágenes a Firebase Storage
+- Acceso a cámara y galería del dispositivo con Flutter
